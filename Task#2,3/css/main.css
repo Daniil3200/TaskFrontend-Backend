@@ -1,0 +1,16 @@
+
+body{
+    background-image: url("Moho_braccatus.jpg"); background-repeat: no-repeat; background-size: cover; height: 190px; padding: 10px;
+}
+.fon {
+    background: rgba(37, 37, 37, 0.419); color: greenyellow; border: 3px double black; border-radius: 10px;
+}
+b{
+    color: green;
+}
+h1{
+    text-align: center; margin-left: 40%; width: 25%;
+}
+#end{
+    color: red; text-transform: capitalize; text-align: center; font-size: larger;
+}
